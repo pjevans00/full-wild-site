@@ -1,4 +1,5 @@
-baseurl: '/full-wild-site'
+baseurl: /full-wild-site
+url: pjevans00.github.io
 permalink: pretty
 title: 'Full Wild'
 
