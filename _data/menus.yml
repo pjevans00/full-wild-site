@@ -1,21 +1,24 @@
 main:
-  - name: "Services"
-    url: "/services/"
+  - name: "Home"
+    url: "/"
+    weight: 1
+  - name: "Upcoming Events"
+    url: "/events/"
     weight: 2
-  - name: "Team"
-    url: "/team/"
+  - name: "Classes"
+    url: "/classes/"
     weight: 3
   - name: "About"
     url: "/about/"
     weight: 4
-  - name: "Contact"
-    url: "/contact/"
+  - name: "Connect"
+    url: "/connect/"
     weight: 5
 
 footer:
   - name: "Home"
     url: "/"
     weight: 1
-  - name: "Contact"
-    url: "/contact/"
+  - name: "Connect"
+    url: "/connect/"
     weight: 2
