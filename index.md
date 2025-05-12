@@ -1,7 +1,7 @@
 ---
 title: Full Wild
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: Yoga classes and events along with freelance outdoor activities in the South Wales area.
 intro_image: "images/illustrations/yoga_1.png"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
