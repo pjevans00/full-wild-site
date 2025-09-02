@@ -109,7 +109,7 @@ Neither Full Wild, nor its staff shall be liable for any death, personal injury,
 
 10.1 Clients are required to notify the Studio of any change of address or contact details.
 
-10.2 Full Wild may communicate with the Client by email or WhatsApp . By providing an email address or phone number to the Studio, the Client consents to receiving email communications from the Studio, including notices pursuant to the Terms and Conditions. The Client also accepts any risk that email may not be a secure and confidential means of communication. The Studio will not be liable for any loss or damage suffered as a result of communicating with a Client by email.
+10.2 Full Wild may communicate with the Client by email or WhatsApp. By providing an email address or phone number to the Studio, the Client consents to receiving email communications from the Studio, including notices pursuant to the Terms and Conditions. The Client also accepts any risk that email may not be a secure and confidential means of communication. The Studio will not be liable for any loss or damage suffered as a result of communicating with a Client by email.
 
 10.3 The Client acknowledges that they are over the age of 18 for regular classes. Age limit may be reduced for special events at the discretion of Full Wild.
 
