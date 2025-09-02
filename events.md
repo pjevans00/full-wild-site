@@ -7,7 +7,7 @@ bodyClass: page-about
 
 Below you can find information about some of our upcoming events, this page will be updated as new events are announced. Please also find upcoming event information on our instagram!
 
-# NEW: Weekly Wednesday Evening Yoga Class (with Mind Ystradgynlais)
+# Weekly Wednesday Evening Yoga Class (with Mind Ystradgynlais)
 
 ![Yoga with Mind](/images/events/wednesday_class_poster.png)
 
