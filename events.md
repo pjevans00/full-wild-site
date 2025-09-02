@@ -7,18 +7,18 @@ bodyClass: page-about
 
 Below you can find information about some of our upcoming events, this page will be updated as new events are announced. Please also find upcoming event information on our instagram!
 
-# Yoga & Sup Morning (with South Wales Adventure Company)
+# NEW: Weekly Wednesday Evening Yoga Class (with Mind Ystradgynlais)
 
-![Yog & Sup with SWAC](/images/events/full_wild_yoga-18_05_poster.jpg)
+![Yoga with Mind](/images/events/wednesday_class_poster.png)
 
-join us for a yoga flow followed by a Stand Up Paddle boarding journey along with Resolven Canal, in partnership with South Wales Adventure Company. £22.50 per person.
+I'll be delivering an evening class at Mind Ystradgynlais from Wednesday 17th September 6pm-7pm 🙌 
 
-The first hour of the session will start with a Vinyasa flow suitable for all abilities which will be delivered on land overlooking the River Neath. This will be followed by a journey on the Stand Up Paddle Board along the Neath Canal at the Resolven Basin where we can either continue our practice or enjoy a social paddle taking in the tranquil beauty of the canal.
+It will be a vinyasa flow with a focus and play on strength and balance 😊 
 
-The meeting place will be at Ty Banc and there will be an opportunity to purchase refreshments from The Basin Café where there is ample free parking. Yoga Mats, blocks, SUP boards and buoyancy aids will be provided for the morning. 
+Looking forward to seeing you all on the mat soon!🙏
 
-Just so you know, you will be on the water and there is a chance you will get wet!
+#yoga #ystradynlais #mind #vinyasa #yogateacher #mindfulness #strength #flow #balance
 
-Sunday 18th May 09:00am - 11:30am
+Starting weekly from Wednesday 17th September 18:00pm - 19:00pm
 
-[Booking Link](https://www.southwalesadventurecompany.com/yoga)
+[Booking Link](https://shop.beyonk.com/ua9y2tcq/experiences?theme=2E4A46)

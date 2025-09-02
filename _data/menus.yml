@@ -6,7 +6,7 @@ main:
     url: "/events/"
     weight: 2
   - name: "Classes"
-    url: "/classes/"
+    url: "https://shop.beyonk.com/ua9y2tcq/experiences?theme=2E4A46"
     weight: 3
   - name: "About"
     url: "/about/"
@@ -22,3 +22,6 @@ footer:
   - name: "Connect"
     url: "/connect/"
     weight: 2
+  - name: "Terms and Conditions"
+    url: "/terms/"
+    weight: 3
