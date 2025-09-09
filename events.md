@@ -21,4 +21,4 @@ Looking forward to seeing you all on the mat soon!🙏
 
 Starting weekly from Wednesday 17th September 18:00pm - 19:00pm
 
-[Booking Link](https://shop.beyonk.com/ua9y2tcq/experiences?theme=2E4A46)
+[Booking Link](https://full-wild.reservio.com)

@@ -6,7 +6,7 @@ main:
     url: "/events/"
     weight: 2
   - name: "Classes"
-    url: "https://shop.beyonk.com/ua9y2tcq/experiences?theme=2E4A46"
+    url: "https://full-wild.reservio.com"
     weight: 3
   - name: "About"
     url: "/about/"
