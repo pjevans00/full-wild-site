@@ -2,11 +2,11 @@ main:
   - name: "Home"
     url: "/"
     weight: 1
+  - name: "Classes & Schedule"
+    url: "https://full-wild.reservio.com"
+    weight: 2
   - name: "Upcoming Events"
     url: "/events/"
-    weight: 2
-  - name: "Classes"
-    url: "https://full-wild.reservio.com"
     weight: 3
   - name: "About"
     url: "/about/"
@@ -19,9 +19,6 @@ footer:
   - name: "Home"
     url: "/"
     weight: 1
-  - name: "Connect"
-    url: "/connect/"
-    weight: 2
   - name: "Terms and Conditions"
     url: "/terms/"
-    weight: 3
+    weight: 2

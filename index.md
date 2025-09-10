@@ -12,3 +12,11 @@ show_call_box: false
 # Full Wild Yoga & Outdoor Activites.
 
 Fully trained yoga instructor and outdoors activity freelancer in the South Wales area.
+
+<div class="reservio-button-container"
+         data-text="Book now"
+         data-size="medium"
+         data-color="#2E4A46"
+         data-url="https://full-wild.reservio.com">
+</div>
+<script src="https://cdn.reservio.com/widget/button-bundle.js"></script>
