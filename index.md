@@ -9,7 +9,7 @@ intro_image_hide_on_mobile: true
 show_call_box: false
 ---
 
-# Full Wild Yoga & Outdoor Activites.
+# Full Wild Yoga & Outdoor Activities
 
 Fully trained yoga instructor and outdoors activity freelancer in the South Wales area.
 
