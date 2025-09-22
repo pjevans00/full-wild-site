@@ -13,10 +13,23 @@ show_call_box: false
 
 Fully trained yoga instructor and outdoors activity freelancer in the South Wales area.
 
-<div class="reservio-button-container"
-         data-text="Book now"
-         data-size="medium"
-         data-color="#2E4A46"
-         data-url="https://full-wild.reservio.com">
+<style>
+    .book-now-btn {
+        background-color: #2e4a46;
+        color: white;
+        padding: 15px 30px;
+        border: none;
+        border-radius: 5px;
+        font-size: 16px;
+        cursor: pointer;
+        text-decoration: none;
+        display: inline-block;
+    }
+    .book-now-btn:hover {
+        background-color: #3b615c;
+        text-decoration: none;
+    }
+</style>
+<div>
+    <a href="https://app.squareup.com/appointments/book/classes/z0vg5a5tryf4d5/LJ6PHQ886RT42/classes" class="book-now-btn">&#9873; BOOK NOW</a>
 </div>
-<script src="https://cdn.reservio.com/widget/button-bundle.js"></script>
