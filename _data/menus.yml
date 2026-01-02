@@ -3,7 +3,7 @@ main:
     url: "/"
     weight: 1
   - name: "Classes & Schedule"
-    url: "https://app.squareup.com/appointments/book/classes/z0vg5a5tryf4d5/LJ6PHQ886RT42/classes"
+    url: "https://full-wild.reservio.com"
     weight: 2
   - name: "Upcoming Events"
     url: "/events/"

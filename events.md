@@ -7,36 +7,42 @@ bodyClass: page-about
 
 Below you can find information about some of our upcoming events, this page will be updated as new events are announced. Please also find upcoming event information on our instagram!
 
-# Yoga & Coffee Morning at BloomSpace Ystradgynlais (formerly Mind Ystradgynlais)
+# January Class Schedule
 
-![Breakfast Morning](/images/events/full_wild_yoga-06_12_poster.jpg)
+![January Schedule](/images/events/jan_2025_schedule.jpg)
 
-Ground, move and connect.
+# Weekly Tuesday Evening Yoga Class (at Y Stiwdio Pontardawe)
 
-Join me for a morning flow followed by coffee and cake. It'll be a great way to slow down and pause and have a chance to socialise.
+![Yoga Pontardawe](/images/events/tuesday_class_poster.jpg)
 
-The morning is open to all abilities and mats will be provided along with refreshments and cake ☺️
+This class will be a mix of dynamic flows and balance which will generate some heat and also some weeks doing more gentler mindful flows to allow you to reset and recharge.
 
-📆 Saturday 6th December
+I'll be breaking down movements and will give you explanations of what the benefits are for the postures so that you can get the most from your practice.
 
-🕓 9.00am - 11.00am
+You are welcome to bring your own mat and equipment but mats, blocks and belts will be provided.
 
-🏷️ £8.50 pp
+Session will be at:
 
-[Booking Link](https://book.squareup.com/classes/z0vg5a5tryf4d5/location/LJ6PHQ886RT42/classDetails/clssch_0qc34403xwjtvw?dateStart=1765011600)
+Y Stiwdio Pontardawe,
+32 Church Street,
+Pontardawe,
+Neath Port Talbot,
+SA8 4JB
+
+[Booking Link](https://full-wild.reservio.com)
 
 # Weekly Wednesday Evening Yoga Class (with Mind Ystradgynlais)
 
-![Yoga with Mind](/images/events/wednesday_class_poster.png)
+![Yoga with Mind](/images/events/wednesday_class_poster.jpg)
 
-I'll be delivering an evening class at Mind Ystradgynlais from Wednesday 17th September 6pm-7pm 🙌 
+I'll be delivering an evening class at The Bloom Space Foundation Ystradgynlais on Wednesday Evening 6pm-7pm 🙌 
 
 It will be a vinyasa flow with a focus and play on strength and balance 😊 
 
 Looking forward to seeing you all on the mat soon!🙏
 
-#yoga #ystradynlais #mind #vinyasa #yogateacher #mindfulness #strength #flow #balance
+#yoga #ystradynlais #bloomspacefoundation #vinyasa #yogateacher #mindfulness #strength #flow #balance
 
 Starting weekly from Wednesday 17th September 18:00pm - 19:00pm
 
-[Booking Link](https://book.squareup.com/classes/z0vg5a5tryf4d5/location/LJ6PHQ886RT42/classes)
+[Booking Link](https://full-wild.reservio.com)
