@@ -17,7 +17,9 @@ The class will begin with a gentle flow before we allow ourselves to settle down
 
 Yoga Nidra is a guided practice where you are in a state of wakefulness and sleep. It is a restorative practice where the body rests deeply while the mind remains gently aware.
 
-After the session I will be offering warm herbal tea and light refreshments. 🙏
+After the session I will be offering warm herbal tea and light refreshments.
+
+Please bring a blanket and a pillow with you, mats and blocks will be provided.🙏
 
 Friday 16th October - 18:00pm - 19:30pm.
 
@@ -29,7 +31,7 @@ Friday 16th October - 18:00pm - 19:30pm.
 
 I'll be delivering an evening class at The Bloom Space Foundation Ystradgynlais on Wednesday Evening 6pm-7pm 🙌 
 
-It will be a vinyasa flow with a focus and play on strength and balance 😊 
+It will be a vinyasa flow with a focus and play on strength and balance. 😊 
 
 Looking forward to seeing you all on the mat soon!🙏
 
