@@ -19,7 +19,7 @@ Yoga Nidra is a guided practice where you are in a state of wakefulness and slee
 
 After the session I will be offering warm herbal tea and light refreshments. 🙏
 
-Friday 16th October - 18:00pm - 19:30pm
+Friday 16th October - 18:00pm - 19:30pm.
 
 [Booking Link](https://full-wild.reservio.com/events/2f440223-c554-4498-886b-19db2f591260)
 
@@ -35,6 +35,6 @@ Looking forward to seeing you all on the mat soon!🙏
 
 #yoga #ystradynlais #bloomspacefoundation #vinyasa #yogateacher #mindfulness #strength #flow #balance
 
-Starting weekly from Wednesday 17th September 18:00pm - 19:00pm
+Starting weekly from Wednesday 17th September 18:00pm - 19:00pm.
 
 [Booking Link](https://full-wild.reservio.com)
