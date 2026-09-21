@@ -7,33 +7,25 @@ bodyClass: page-about
 
 Below you can find information about some of our upcoming events, this page will be updated as new events are announced. Please also find upcoming event information on our instagram!
 
-# January Class Schedule
+# Gentle Yoga Flow and Yoga Nidra Workshop (Friday 16th October)
 
-![January Schedule](/images/events/jan_2025_schedule.jpg)
+![Nidra Workshop](/images/events/nidra_poster.webp)
 
-# Weekly Tuesday Evening Yoga Class (at Y Stiwdio Pontardawe)
+Join me on Friday 16th October for Gentle Yoga Flow followed by Yoga Nidra
 
-![Yoga Pontardawe](/images/events/tuesday_class_poster.jpg)
+The class will begin with a gentle flow before we allow ourselves to settle down with blankets and a pillow for a 45-minute yoga Nidra.
 
-This class will be a mix of dynamic flows and balance which will generate some heat and also some weeks doing more gentler mindful flows to allow you to reset and recharge.
+Yoga Nidra is a guided practice where you are in a state of wakefulness and sleep. It is a restorative practice where the body rests deeply while the mind remains gently aware.
 
-I'll be breaking down movements and will give you explanations of what the benefits are for the postures so that you can get the most from your practice.
+After the session I will be offering warm herbal tea and light refreshments. 🙏
 
-You are welcome to bring your own mat and equipment but mats, blocks and belts will be provided.
+Friday 16th October - 18:00pm - 19:30pm
 
-Session will be at:
+[Booking Link](https://full-wild.reservio.com/events/2f440223-c554-4498-886b-19db2f591260)
 
-Y Stiwdio Pontardawe,
-32 Church Street,
-Pontardawe,
-Neath Port Talbot,
-SA8 4JB
+# Weekly Wednesday Evening Yoga Class (with Bloomspace Ystradgynlais)
 
-[Booking Link](https://full-wild.reservio.com)
-
-# Weekly Wednesday Evening Yoga Class (with Mind Ystradgynlais)
-
-![Yoga with Mind](/images/events/wednesday_class_poster.jpg)
+![Yoga with Bloomspace](/images/events/wednesday_class_poster_2026.webp)
 
 I'll be delivering an evening class at The Bloom Space Foundation Ystradgynlais on Wednesday Evening 6pm-7pm 🙌 
 
