@@ -25,6 +25,30 @@ Friday 16th October - 18:00pm - 19:30pm.
 
 [Booking Link](https://full-wild.reservio.com/events/2f440223-c554-4498-886b-19db2f591260)
 
+
+![Morning Yoga Poster](/images/events/wednesday_morning_class_poster_2026.webp)
+
+Ready to stretch, breathe, move, and feel your best? 🌿
+
+Come join me for  a new Vinyasa class, suitable for all levels. The class is catered to all abilities and is a good way to stay grounded as the year slowly comes to a close.
+ 
+Benefits are: 
+
+🌸 Improve flexibility & strength  
+🌸 Reduce stress & tension  
+🌸 Relax your mind  
+🌸 Meet a welcoming community  
+
+First class is free for the 21st only ☺️
+
+📅 Wednesday 21st October   
+🕐 10am - 11am   
+📍 The Bloom Space Foundation, Ystradgynlais, SA9 1JB  
+
+Visit full wild.co.uk for further details or drop me a DM. 
+[Booking Link](https://full-wild.reservio.com)
+
+
 # Weekly Wednesday Evening Yoga Class (with Bloomspace Ystradgynlais)
 
 ![Yoga with Bloomspace](/images/events/wednesday_class_poster_2026.webp)
