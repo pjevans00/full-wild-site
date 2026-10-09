@@ -26,6 +26,8 @@ Friday 16th October - 18:00pm - 19:30pm.
 [Booking Link](https://full-wild.reservio.com/events/2f440223-c554-4498-886b-19db2f591260)
 
 
+# New! Weekly Wednesday Morning Yoga Class (with Bloomspace Ystradgynlais)
+
 ![Morning Yoga Poster](/images/events/wednesday_morning_class_poster_2026.webp)
 
 Ready to stretch, breathe, move, and feel your best? 🌿
