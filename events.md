@@ -7,6 +7,7 @@ bodyClass: page-about
 
 Below you can find information about some of our upcoming events, this page will be updated as new events are announced. Please also find upcoming event information on our instagram!
 
+<!---
 # Gentle Yoga Flow and Yoga Nidra Workshop (Friday 16th October)
 
 ![Nidra Workshop](/images/events/nidra_poster.webp)
@@ -24,7 +25,7 @@ Please bring a blanket and a pillow with you, mats and blocks will be provided.ð
 Friday 16th October - 18:00pm - 19:30pm.
 
 [Booking Link](https://full-wild.reservio.com/events/2f440223-c554-4498-886b-19db2f591260)
-
+-->
 
 # New! Weekly Wednesday Morning Yoga Class (with Bloomspace Ystradgynlais)
 
