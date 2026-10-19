@@ -27,6 +27,25 @@ Friday 16th October - 18:00pm - 19:30pm.
 [Booking Link](https://full-wild.reservio.com/events/2f440223-c554-4498-886b-19db2f591260)
 -->
 
+# Making Through Moving Workshop with Katy Broad (Saturday 14th November)
+
+![Katy Workshop](/images/events/workshop_poster.webp)
+
+Join myself and local Artist Katy Broad for a "Making Through Moving Workshop" 
+
+The workshop will start with a gentle yoga flow delivered by myself which will then lead on to Katy's art workshop incorporating meditation with a creative exercise.
+
+"The workshop will focus on intuition,curiosity and playfulness. Quieting the mind and letting creativity lead the way." 
+
+📅 Saturday14th November  
+🕐 10:00am - 12:30pm  
+📍The Bloomspace Foundation, 66 Pen-Y-Bryn, Ystradgynlais, Swansea SA9 1JB  
+💷 £10:00  
+
+Visit Fullwild.co.uk to book your space or drop me a DM :)
+
+[Booking Link](https://full-wild.reservio.com/events/f23c8ee6-0a6d-49ad-bece-27d4a3fa484a)
+
 # New! Weekly Wednesday Morning Yoga Class (with Bloomspace Ystradgynlais)
 
 ![Morning Yoga Poster](/images/events/wednesday_morning_class_poster_2026.webp)
