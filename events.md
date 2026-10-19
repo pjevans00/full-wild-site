@@ -69,20 +69,3 @@ First class is free for the 21st only ☺️
 
 Visit full wild.co.uk for further details or drop me a DM. 
 [Booking Link](https://full-wild.reservio.com)
-
-
-# Weekly Wednesday Evening Yoga Class (with Bloomspace Ystradgynlais)
-
-![Yoga with Bloomspace](/images/events/wednesday_class_poster_2026.webp)
-
-I'll be delivering an evening class at The Bloom Space Foundation Ystradgynlais on Wednesday Evening 6pm-7pm 🙌 
-
-It will be a vinyasa flow with a focus and play on strength and balance. 😊 
-
-Looking forward to seeing you all on the mat soon!🙏
-
-#yoga #ystradynlais #bloomspacefoundation #vinyasa #yogateacher #mindfulness #strength #flow #balance
-
-Starting weekly from Wednesday 17th September 18:00pm - 19:00pm.
-
-[Booking Link](https://full-wild.reservio.com)
